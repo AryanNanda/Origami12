@@ -1,0 +1,40 @@
+style
+       h1{
+           background-color: royalblue;
+          
+       }
+      
+       /* img {
+          
+           border-radius: 20px;
+           border : solid;
+           border-color: black;
+       } */
+      
+       .header{
+           display:flex;
+                background-color: teal;
+                display:flex;
+                justify-content : space-evenly
+         
+
+            }   
+       .item {
+           border : 2px solid black;
+           border-radius :50px
+       }
+          
+       
+       .menu{
+           display:flex;
+           justify-content : space-between;
+           background-color: teal;
+           font-size : 20px;
+           font-family: sans-serif;
+           font-weight: 400;
+           color : white
+       }
+ p{
+    background-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
